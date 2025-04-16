@@ -41,7 +41,7 @@ O sistema funciona da seguinte forma:
 
 ## 🖼️ Imagem do Projeto
 
-![Imagem do projeto no Tinkercad]()
+![Imagem do projeto no Tinkercad](./images/arduino_cp1.jpeg)
 
 ---
 
