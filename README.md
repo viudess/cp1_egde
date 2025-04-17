@@ -6,8 +6,8 @@ Este projeto é um **protótipo de sistema inteligente para controle de luminosi
 
 O sistema funciona da seguinte forma:
 
-- 💡 **LED Verde**: Iluminação ideal para os vinhos.  
-- 🟡 **LED Amarelo**: Iluminação próxima do limite permitido.  
+- 🟢 **LED Verde**: Iluminação ideal para os vinhos.  
+- 🟡 **LED Amarelo**: Iluminação inferior ao ideal.  
 - 🔴 **LED Vermelho + Buzzer**: Iluminação ultrapassou o limite ideal, alerta sonoro ativado até normalização.
 
 > Este projeto foi desenvolvido com foco em **eficiência, simplicidade e aplicabilidade prática** para estabelecimentos que lidam com armazenamento de bebidas sensíveis à luz.
