@@ -34,14 +34,14 @@ O sistema funciona da seguinte forma:
 
 ## 📎 Links Importantes
 
-- 🔗 **Simulação no Tinkercad/Wokwi**: [Clique aqui para acessar a simulação](https://www.tinkercad.com/things/aKsW1wEX5Pg-terrific-fulffy-leelo)  
+- 🔗 **Simulação no Tinkercad**: [Clique aqui para acessar a simulação](https://www.tinkercad.com/things/aKsW1wEX5Pg-terrific-fulffy-leelo)  
 - 🎥 **Vídeo Explicativo do Projeto**: [Assista ao vídeo explicativo](https://youtu.be/EZwBK6Q6pzQ?si=i4aHPt71DX2vICTA)  
 
 ---
 
 ## 🖼️ Imagem do Projeto
 
-![Imagem do projeto no Tinkercad](./images/arduino_cp1.jpeg)
+![Imagem do projeto no Tinkercad](./images/arduino_cp1.png)
 
 ---
 
@@ -50,7 +50,7 @@ O sistema funciona da seguinte forma:
 1. Acesse a simulação pelo link acima.  
 2. Alterne a iluminação (intensidade de luz no fotoresistor).  
 3. Observe a mudança nas cores dos LEDs.  
-4. Caso a luz ultrapasse o limite ideal, o **LED vermelho acende** e o **buzzer é ativado**.  
+4. Caso a luz ultrapasse o limite ideal, o **LED vermelho acende** e o **buzzer é ativado**.
 5. Reduza a luminosidade até que o sistema volte ao estado ideal.
 
 ---
